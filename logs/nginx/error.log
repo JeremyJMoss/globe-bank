@@ -1,2 +1,0 @@
-2023/01/17 21:25:03 [error] 11502#0: *53 directory index of "/home/voldemort/Local Sites/globe-bank/app/public/stylesheets/" is forbidden, client: 127.0.0.1, server: , request: "GET /stylesheets/ HTTP/1.1", host: "localhost:10009"
-2023/01/17 21:26:17 [error] 11502#0: *58 directory index of "/home/voldemort/Local Sites/globe-bank/app/public/stylesheets/" is forbidden, client: 127.0.0.1, server: , request: "GET /stylesheets/ HTTP/1.1", host: "localhost:10009"
